@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\adha\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.jediEnabled": false,
+    "python.languageServer": "Default"
+}
